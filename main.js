@@ -1,19 +1,19 @@
 const data = [
     {
         "title": "The History of Recent Grocery",
-        "img": "./images/gre.jpg",
+        "img": "images/gre.jpg",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit error obcaecati magnam repellat, alias rerum exercitationem harum deleniti ipsum nam provident dolorum, dicta saepe expedita nobis et. Doloribus sed et, magni odit repellat ea quidem laboriosam numquam rerum ad libero veniam perspiciatis illo inventore error repellendus, at fuga! Obcaecati necessitatibus reiciendis",
         "category": "History"
     },
     {
         "title": "The Vision of Nest Days",
-        "img": "./images/pre.jpg",
+        "img": "images/pre.jpg",
         "description": " Umami kinfolk salvia jean shorts offal venmo. Knausgaard tilde try-hard, woke fixie banjo man bun. Small batch tumeric mustache tbh wayfarers 8-bit shaman chartreuse tacos. Viral direct trade hoodie ugh chambray, craft beer pork belly flannel tacos single-origin coffee art party migas plaid pop-up.",
         "category": "Vision"
     },
     {
         "title": "The Goals To Achieve in this year",
-        "img": "./images/sre.jpg",
+        "img": "images/sre.jpg",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit error obcaecati magnam repellat, alias rerum exercitationem harum deleniti ipsum nam provident dolorum, dicta saepe expedita nobis et. Doloribus sed et, magni odit repellat ea quidem laboriosam numquam rerum ad libero veniam perspiciatis illo inventore error repellendus, at fuga! Obcaecati necessitatibus reiciendis, repellat debitis, nulla quibusdam dolor pariatur exercitationem vitae dolorem nesciunt tempore sit cumque praesentium cum quod perferendis mollitia ea deserunt consequuntur blanditiis cupiditate quisquam dolores aliquid.",
         "category": "Goals"
     }
